@@ -1,0 +1,19 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-color:rgb(252, 255, 67);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .lista-footer{
+    display: flex;
+    list-style-type: none;
+}
+
+.item-footer{
+    padding: 25px;
+}
+  .carousel-inner{
+    left: 50%;
+  }
